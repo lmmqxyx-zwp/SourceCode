@@ -12,4 +12,8 @@ public class GithubCommit {
         System.out.println("hello github sourcetree!");
     }
 
+    public void display(String text) {
+        System.out.println("消息：" + text);
+    }
+
 }
