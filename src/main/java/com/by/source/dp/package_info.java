@@ -6,4 +6,8 @@ package com.by.source.dp;
  * 此包下面的全为设计模式相关代码
  */
 public class package_info {
+
+
+    // 1、iaac：接口与抽象类
+
 }
