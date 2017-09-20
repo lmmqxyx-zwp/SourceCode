@@ -1,10 +1,10 @@
-package com.by.source.sf;
+package com.by.source.sf.px;
 
 /**
- * Created by byvai on 2017/9/5.
- *
- * 此包下面的全为算法相关代码
+ * 排序算法
  */
 public class package_info {
+
+    // 1、冒泡排序
 
 }
